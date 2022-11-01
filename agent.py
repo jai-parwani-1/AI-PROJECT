@@ -143,5 +143,5 @@ def train():
             plot(plot_scores, plot_mean_scores)
 
 
-if __name__ == '__main__':
+if __name__ == '__main_':
     train()
